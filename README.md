@@ -5,4 +5,4 @@ Homeworks of the course Machine Learning and Artificial Intelligence @ PoliTo
 - KNN
 - Linear SVM
 - RBF Kernel SVM
-- RBF Kernel SVM with K-Fold 
+- RBF Kernel SVM with K-Fold
